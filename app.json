@@ -1,0 +1,16 @@
+
+{
+  "expo": {
+    "name": "Velora",
+    "slug": "velora-shopping-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
